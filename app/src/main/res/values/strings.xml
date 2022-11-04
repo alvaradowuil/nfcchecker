@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NfcChecker</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nfc_available">Yes NFC available</string>
+    <string name="nfc_is_not_enabled">NFC is not enabled. Need to enable by the user.</string>
+    <string name="nfc_is_not_supported">NFC is not supported</string>
+    <string name="instructions">Check if your device supports NFC and share it with the community\n\nYou can see what other brands and models support NFC</string>
+    <string name="check_button">Check NFC</string>
+    <string name="devices_registered">Registered devices</string>
+    <string name="more">See more</string>
+    <string name="registered_models">Registered models</string>
+    <string name="registered_models_title">%s\nRegistered models</string>
+    <string name="registered_brands_title">Registered\nbrands</string>
+    <string name="records_without_nfc">%s without nfc</string>
+</resources>
